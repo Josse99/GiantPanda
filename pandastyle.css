@@ -22,5 +22,6 @@ img{
 p {
     border: solid 5px grey;
     padding: 1em;
+    border-radius: 25px;
 s
 }

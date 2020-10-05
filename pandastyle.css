@@ -15,5 +15,6 @@ img{
 .column{
     width:600px;
     margin:40px auto;
+    border: dotted 15px grey;
 
 }
